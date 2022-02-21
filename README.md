@@ -1,3 +1,7 @@
 - 👋 Hi, I’m @kishorgs
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python
+- From Shivamogga , Karnataka ,  India.
+- 👀 I’m interested in programming.
+- languages known c , c++ , html , css , java , javascript and sql.
+- 🌱 I’m currently learning python.
+- waiting to get hired.
+- hobbies : singing and writing art.
