@@ -1,4 +1,4 @@
-![logo](READER'S MAGAZINE CHOICE 2020.jpg)
+<img align="center" alt="Banner" src="READER'S MAGAZINE CHOICE 2020.jpg" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Kishor</h1>
