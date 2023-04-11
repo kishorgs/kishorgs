@@ -1,4 +1,4 @@
-![logo]()
+![logo]("READER'S MAGAZINE CHOICE 2020.png")
 
 
 <h1 align="center">Hi 👋, I'm Kishor</h1>
