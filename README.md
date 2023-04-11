@@ -1,4 +1,4 @@
-![logo](programmer.gif)
+![logo](READER'S MAGAZINE CHOICE 2020.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Kishor</h1>
