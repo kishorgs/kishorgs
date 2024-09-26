@@ -54,15 +54,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="machine learning" width="40" height="40"/> <!-- Machine Learning Icon -->
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="deep learning" width="40" height="40"/> <!-- Deep Learning Icon -->
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="data science" width="40" height="40"/> <!-- Data Science Icon -->
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
