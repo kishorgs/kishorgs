@@ -99,12 +99,6 @@
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>
   </a>
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/meta/images/spacy-logo.svg" alt="spacy" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/transformers/model_doc/bert.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/3375/PNG/512/bert_transformer_logo_icon_212181.png" alt="bert" width="40" height="40"/>
-  </a>
 </p>
 
 
