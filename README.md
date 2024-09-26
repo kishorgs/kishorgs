@@ -90,7 +90,9 @@
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>
   </a>
-  
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-light.svg" alt="sklearn" width="40" height="40"/>
+  </a>
 </p>
 
 
