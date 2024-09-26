@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kishorgsk.15@gmail.com**
 
-- 📄 Know about my experiences [Kishor_G_Resume](https://drive.google.com/file/d/1mAqLsh7qztfcH8I2BOHyvgK2jMWAggKb/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mAqLsh7qztfcH8I2BOHyvgK2jMWAggKb/view?usp=sharing)
 
 - ⚡ Hobbies **Singing, Writing poetry.**
 
