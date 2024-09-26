@@ -8,13 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorgs&label=Profile%20views&color=0e75b6&style=flat" alt="kishorgs" /> </p>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m a **MERN Stack Developer**
 
-- 💬 Ask me about **HTML, CSS, Javascript, python, java**
+- 🧠 Intrested in **machine learning** and **Data Science**
+
+- 💬 Ask me about **ReactJS, NodeJS, Javascript, MongoDB, python, java**
 
 - 📫 How to reach me **kishorgsk.15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jqxb7tSWMuGOOBSdWvgeZt8Slysb_3xd/view?usp=sharing](https://drive.google.com/file/d/1Jqxb7tSWMuGOOBSdWvgeZt8Slysb_3xd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mAqLsh7qztfcH8I2BOHyvgK2jMWAggKb/view?usp=sharing](https://drive.google.com/file/d/1mAqLsh7qztfcH8I2BOHyvgK2jMWAggKb/view?usp=sharing)
 
 - ⚡ Hobbies **Singing, Writing poetry.**
 
