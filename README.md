@@ -10,7 +10,7 @@
 
 - 🌱 I’m a **MERN Stack Developer**
 
-- 🧠 Intrested in **machine learning** and **Data Science**
+- 🧠 Intrested in **Machine learning** and **Data Science**
 
 - 💬 Ask me about **ReactJS, NodeJS, Javascript, MongoDB, python, java**
 
