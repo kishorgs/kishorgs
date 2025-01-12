@@ -97,4 +97,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorgs&show_icons=true&locale=en" alt="kishorgs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorgs&" alt="kishorgs" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorgs" alt="GitHub Streak Stats" />
+</p>
+
